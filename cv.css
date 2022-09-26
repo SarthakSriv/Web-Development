@@ -1,0 +1,46 @@
+body {
+  background-color: white;
+}
+html {
+  margin: 20px;
+}
+li {
+  font-size: 16px;
+}
+#Sarthak {
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+#Left {
+  position: absolute;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: white;
+  background-color: slategrey;
+  left: 0px;
+  padding-left: 10px;
+  width: 20%;
+  max-height: 100%;
+}
+#Right {
+  position: absolute;
+  padding-left: 10px;
+  right: 0px;
+  width: 79%;
+}
+#Info {
+  font-size: 20px;
+  background-color: azure;
+  border-top-width: 7px;
+  border-top-color: rgb(235, 151, 120);
+  border-top-style: solid;
+  padding: 10px;
+}
+.detailhead {
+  font-size: 30px;
+}
+.LeftHead {
+  background-color: darkslategrey;
+}
+a {
+  color: blue;
+}
